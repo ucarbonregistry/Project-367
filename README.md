@@ -55,9 +55,13 @@ Vintage Year: 2021
 
 CoU's: 3,975
 __________________________
-Serial Number: 0001-024781-028815-UCR-CoU-IN-367-01012022-31122022
+Serial Number: 0001-024882-028815-UCR-CoU-IN-367-01012022-31122022
 
 Vintage Year: 2022
 
-CoU's: 4035 (100 credits potentially to be retired for minor over issuance in 2022 vintage due to error in VS and ER)
+CoU's: 3934*
+
+*UPDATED 12/01/2024: (101 credits retired for issuance update in 2022 vintage due to error in VS and ER)
+Serial # 0001-024781-024881-UCR-CoU-IN-367-01012022-31122022 has been Retired on 12/01/2024 10:56 pm (IST) by UCR admin.
+
 __________________
