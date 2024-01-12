@@ -62,6 +62,7 @@ Vintage Year: 2022
 CoU's: 3934*
 
 *UPDATED 12/01/2024: (101 credits retired for issuance update in 2022 vintage due to error in VS and ER)
+
 Serial # 0001-024781-024881-UCR-CoU-IN-367-01012022-31122022 has been Retired on 12/01/2024 10:56 pm (IST) by UCR admin.
 
 __________________
